@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    color :black;
+}
+
+.list{
+    background-color: white;
+    font-size:large;
+    display:inline-block;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    color: black;
+}
